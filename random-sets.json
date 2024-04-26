@@ -3746,7 +3746,7 @@
                 "role": "Fast Bulky Setup",
                 "movepool": ["Sacred Sword", "Iron Head", "Stone Edge", "Swords Dance", "Taunt"],
                 "teraTypes": ["Fighting"]
-            }
+            },
             {
                 "role": "Bulky Support",
                 "movepool": ["Body Press", "Iron Defense", "Iron Head", "Stealth Rock", "Stone Edge", "Thunder Wave", "Volt Switch"],
